@@ -1,0 +1,17 @@
+{
+  "format": "VCE1",
+  "version": 1,
+  "shards": 400,
+  "config_count": 108161,
+  "catalog_path": "index/catalog.vci",
+  "catalog_sha256": "3f19efdbaad173b1bad2e43dc6a031df7a962d3e089a0135aa7383b133466a04",
+  "catalog_bytes": 1886956,
+  "raw_index_bytes": 3619348,
+  "built_at": 1794996007,
+  "sources": {
+    "bsinwhg": 86516,
+    "Cec1c": 105449,
+    "oureveryday_old": 106758,
+    "oureveryday": 107861
+  }
+}
